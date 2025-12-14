@@ -30,5 +30,10 @@ In conclusion, this API Integration task successfully achieves its objective by 
 
 ## OUTPUT
 
+<img width="1427" height="771" alt="Image" src="https://github.com/user-attachments/assets/9f835990-1aba-4bfe-a5db-7ab2d5e9d1b5" />
+<img width="1711" height="790" alt="Image" src="https://github.com/user-attachments/assets/83eeb176-953a-4eaf-97e4-2a4851c752a3" />
+
+
+
 
 
