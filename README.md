@@ -28,3 +28,7 @@ This project demonstrates essential concepts of API integration, asynchronous pr
 
 In conclusion, this API Integration task successfully achieves its objective by combining client-side scripting with external data retrieval to produce a responsive and dynamic weather web application. It serves as a strong example of how web developers can enhance user interactivity and functionality by connecting web pages to live data sources.
 
+## OUTPUT
+
+
+
